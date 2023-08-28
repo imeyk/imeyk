@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Coding Activity
-<img alt="Coding Activity" src="https://wakatime.com/share/@imeyk/24bbdcf3-3de5-43ae-80ed-333e957eb49e.png" />
-
-<img alt="Coding Languages" src="https://wakatime.com/share/@imeyk/1c644106-ef38-4b82-95d0-7b56e74fe888.png" />
+<img alt="Coding Activity" src="https://wakatime.com/share/@imeyk/24bbdcf3-3de5-43ae-80ed-333e957eb49e.png" style="height: 196.4px; width: 612px;"/>
